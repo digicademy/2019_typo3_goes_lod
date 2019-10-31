@@ -1,15 +1,12 @@
 ### Date | Place
 
-# Title
+# TYPO3 goes LOD
 
-## Subtitle
-
-### Author
+### Sarah Pitroff, Patrick Toschka
+### Akademie der Wissenschaften und der Literatur | Mainz
 
 Description
 
-The code of this boilerplate is at https://github.com/digicademy/impress-js-boilerplate
-
-A live demo can be found at http://digicademy.github.io/impress-js-boilerplate/
+HTML Representation of Slides: https://digicademy.github.io/2019_typo3_goes_lod
 
 Released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), @digicademy
