@@ -1,4 +1,4 @@
-### Date | Place
+### TYPO3 University Days | Wien
 
 # TYPO3 goes LOD
 
